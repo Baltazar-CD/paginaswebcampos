@@ -1,10 +1,3 @@
-/* =================================================================
-* Template JS
-* 
-* Template:    Nui - Creative Portfolio Showcase HTML Website Template
-* Author:      Themetorium
-* URL:         https://themetorium.net/
-================================================================= */
 
 
 // Table of Content
@@ -2920,7 +2913,7 @@
 			url: "mail.php", // Change (mail.php path)
 			data: th.serialize()
 		}).done(function() {
-			alert("Thank you. Your message has been sent!");
+			alert("Gracias. ¡Tu mensaje ha sido enviado!");
 			setTimeout(function() {
 			// Done Functions
 			th.trigger("reset");
